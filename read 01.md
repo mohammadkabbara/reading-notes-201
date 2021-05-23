@@ -169,5 +169,3 @@ target audience—not just for yourself or the
 site owner. It is therefore very important to
 understand who your target audience is
 
-
-
