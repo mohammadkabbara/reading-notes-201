@@ -9,8 +9,8 @@
 |  read02     |   [link](read02)    |
 |  read03   |   [link](read03)    |
 |  read04     | [link](read04)      |
-|  read     |  [link](read05)     |
-|  read     | [link](read06)      |
+|  read05     |  [link](read05)     |
+|  read06     | [link](read06)      |
 |  read     |       |
 |  read     |       |
 |  read     |       |
