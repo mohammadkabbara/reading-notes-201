@@ -10,7 +10,7 @@
 |  read03   |   [link](read03)    |
 |  read04     | [link](read04)      |
 |  read     |  [link](read05)     |
-|  read     |       |
+|  read     | [link](read06)      |
 |  read     |       |
 |  read     |       |
 |  read     |       |
